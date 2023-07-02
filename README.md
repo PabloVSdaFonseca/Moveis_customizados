@@ -18,7 +18,7 @@ Aplicação desenvolvida no Stage 02 do programa Explorer da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="página móveis customizados" src="./Imagens/M%C3%B3veisCustomizados.PNG" width="100%">
+  <img alt="página móveis customizados" src="./Imagens/capa.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
